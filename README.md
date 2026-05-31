@@ -110,8 +110,33 @@ privacy_policy.txt
 
 ## Developer
 
-Anam Imam
+Anam Imam(UL-BSCSM-B-23-46)
+Natasha Akram(UL-BSCSM-B-23-46)
+BS Computer Science(6th smester, section-B)
+DEPARTMENT OF COMPUTER SCIENCE
+
+## How to Use the App
+
+Step 1: Open the App
+Launch the Smart Agriculture app from your device.
+Step 2: Grant Permissions
+Allow required permissions:
+•	Location (for weather services) 
+•	Storage (for image selection) 
+Step 3: Select a Feature
+Choose from:
+•	Crop Disease Detection 
+•	Weather Forecast 
+Step 4: Upload Image (if required)
+Select an image from the gallery 
+Step 5: View Results
+The app will display analysis results or weather information.
+
 
 ## Academic Project
 
 This application was developed as a Semester Project.
+
+## GitHub
+
+https://github.com/Anam-Imam
