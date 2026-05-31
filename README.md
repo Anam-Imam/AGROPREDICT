@@ -36,31 +36,31 @@ Version Code: 1
 ## App Screenshots
 
 ### Logo
-![Logo](screenshots/screenshorts/logo.png)
+![Logo](screenshots/Screenshorts/logo.png)
 
 ### Login Screen
-![Login](screenshots/screenshorts/login.png)
+![Login](screenshots/Screenshorts/login.png)
 
 ### Registration Screen
-![Register](screenshots/screenshorts/register.png)
+![Register](screenshots/Screenshorts/register.png)
 
 ### Home Screen
-![Home](screenshots/screenshorts/home.png)
+![Home](screenshots/Screenshorts/home.png)
 
 ### Location Permission Screen
-![Location Permission](screenshots/screenshorts/location_permission.png)
+![Location Permission](screenshots/Screenshorts/location_permission.png)
 
 ### Weather Forecast Screen
-![Weather](screenshots/screenshorts/weather.png)
+![Weather](screenshots/Screenshorts/weather.png)
 
 ### Disease Detection Screen
-![Disease Detection](screenshots/screenshorts/disease_detection_screen.png)
+![Disease Detection](screenshots/Screenshorts/disease_detection_screen.png)
 
 ### Prediction Result Screen
-![Prediction](screenshots/screenshorts/prediction.png)
+![Prediction](screenshots/Screenshorts/prediction.png)
 
 ### Mandi Prices Screen
-![Mandi Prices](screenshots/screenshorts/mandi.png)
+![Mandi Prices](screenshots/Screenshorts/mandi.png)
 ## Features
 
 - Crop Disease Detection
