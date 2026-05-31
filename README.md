@@ -54,7 +54,7 @@ Version Code: 1
 ![Weather](screenshots/Screenshorts/weather.png)
 
 ### Disease Detection Screen
-![Disease Detection](screenshots/Screenshorts/disease_detection_screen.png)
+![Disease Detection](screenshots/Screenshorts/disease_ditection_screen.png)
 
 ### Prediction Result Screen
 ![Prediction](screenshots/Screenshorts/prediction.png)
