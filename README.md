@@ -34,7 +34,6 @@ Version Code: 1
 ![App Icon](assets/images/icon.png)
 
 ## App Screenshots
-## App Screenshots
 
 ### Logo
 ![Logo](screenshots/screenshots/logo.png)
