@@ -81,7 +81,7 @@ Used to select crop images for disease detection.
 ## Demo Video
 
 
-[▶ Watch Demo Video](demo_video/Smart_Agriculture_Demo.mp4)
+[Download Demo Video](demo_video/Smart_Agriculture_Demo.mp4)
 
 
 ### Features Demonstrated
