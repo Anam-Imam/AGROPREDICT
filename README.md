@@ -80,6 +80,8 @@ Used to select crop images for disease detection.
 
 ## Demo Video
 
+
+![Demo_Vedio](demo_video/Smart_Agriculture_Demo.mp4)
 A complete demonstration of the Smart Agriculture application is available in the `demo_video` folder.
 
 ### Features Demonstrated
